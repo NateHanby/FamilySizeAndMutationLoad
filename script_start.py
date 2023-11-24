@@ -6,7 +6,7 @@ import sys
 if __name__ == '__main__':
 
     if len(sys.argv) == 1:
-        filename = "increased_c_modern.csv"
+        filename = "simulations_to_run.csv"
     else:
         filename = sys.argv[1]
 
